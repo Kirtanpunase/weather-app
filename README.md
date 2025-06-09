@@ -18,32 +18,6 @@ A responsive and interactive weather forecasting web application that displays c
 
 📱 Responsive UI with smooth transitions and a clean layout
 
-📁 Project Structure
-bash
-Copy code
-/weather-app/
-│
-├── index.html         # Main HTML file
-├── style.css          # All styling and layout
-├── script.js          # Main JavaScript logic
-├── cities.js          # List of Indian cities with coordinates
-└── icons/             # Weather condition icons
-    ├── sun/
-    ├── moon/
-    └── rain/
-🚀 Getting Started
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
-Open index.html in your browser:
-
-No build tools required.
-
-Works out of the box.
-
 🔑 API Key
 This app uses Visual Crossing Weather API. The API key is already embedded for demo purposes:
 
@@ -58,9 +32,6 @@ Kirtan
 Kaushal
 
 Ketan
-
-🖼️ Screenshots
-(Add screenshots of your app showing the UI in different weather conditions, city searches, and forecasts)
 
 📝 License
 This project is licensed under the MIT License.
